@@ -9,5 +9,20 @@ h2{
 
 }
 header{
+background-color: limegreen;
+text-align: center;
+}
 
+nav {
+    background-color:darkslategrey;
+    margin: 0px;
+}
+ul{
+    
+    text-align: center;
+    display: inline-flex;
+}
+li{
+    list-style-type: none;
+    padding-left: 10px;
 }
